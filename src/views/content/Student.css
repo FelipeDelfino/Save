@@ -1,0 +1,21 @@
+.Cardmove{
+    margin-top: 5%;
+    margin-left: 10%;
+    border-radius: 8px;
+    box-shadow: 10px #000 !important;
+}
+
+.ListStudents{
+    border-radius: sm;
+    padding: 40px;
+    text-align: 'center';
+    margin-top: 12;
+    height: 32;
+    line-height: '32px';
+}
+
+.demo-loadmore-list {
+    min-height: 350px;
+    background-color: white;
+
+}

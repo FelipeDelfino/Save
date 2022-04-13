@@ -1,0 +1,16 @@
+.School {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    margin-top: 5%;
+    margin-left: 10%;
+    border-radius: 8px;
+
+}
+
+
+.CardSchool{
+    padding: 1px;
+    border-color: rgb(236, 236, 236);
+    margin-left: 40px;
+    margin-top: 0px;
+}

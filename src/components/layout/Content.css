@@ -1,0 +1,11 @@
+.Content{
+    display: flex;
+    padding: 30px;
+    
+}
+
+.Student{
+    display: flex;
+    align-items: center;
+    width: max-content;
+}
